@@ -18,7 +18,7 @@ import android.view.ViewGroup;
 
 import android.widget.TextView;
 
-//adolfo se la come 2.0
+//adolfo se la come 2.0.1
 
 public class MainActivity extends AppCompatActivity {
 
