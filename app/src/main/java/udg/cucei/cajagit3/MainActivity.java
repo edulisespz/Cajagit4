@@ -50,7 +50,6 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(MainActivity.this, "aaaa",
                 Toast.LENGTH_LONG).show();
-
     }
 
     @Override
